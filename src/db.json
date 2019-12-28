@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": "497ceec8-6c3c-4047-b6f7-849bb6ebaac7",
+      "name": "Lulita",
+      "description": "habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque",
+      "imageUrl": "http://dummyimage.com/300x200.jpg/cc0000/ffffff"
+    },
+    {
+      "id": "c9a0f24f-809d-4ad3-9aa3-e96a15265dd1",
+      "name": "Lindsey",
+      "description": "praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi",
+      "imageUrl": "http://dummyimage.com/300x200.png/ff4444/ffffff"
+    },
+    {
+      "id": "9be3c8a0-e98f-4284-9b3b-b00dc713cce5",
+      "name": "Edan",
+      "description": "lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque",
+      "imageUrl": "http://dummyimage.com/300x200.bmp/ff4444/ffffff"
+    },
+    {
+      "id": "f72368e1-9cf3-4db9-b146-61695405a3e0",
+      "name": "Guenevere",
+      "description": "sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor",
+      "imageUrl": "http://dummyimage.com/300x200.bmp/dddddd/000000"
+    },
+    {
+      "id": "7be6b50b-0d2b-4b27-981f-0cdf343110c1",
+      "name": "Tori",
+      "description": "commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel",
+      "imageUrl": "http://dummyimage.com/300x200.jpg/ff4444/ffffff"
+    },
+    {
+      "id": "1df90e12-285f-4a88-83e6-74049c385144",
+      "name": "Lilly",
+      "description": "lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque",
+      "imageUrl": "http://dummyimage.com/300x200.png/dddddd/000000"
+    },
+    {
+      "id": "e3c98677-c53b-4230-a62a-b32337c6071b",
+      "name": "Chastity",
+      "description": "elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus",
+      "imageUrl": "http://dummyimage.com/300x200.jpg/cc0000/ffffff"
+    },
+    {
+      "id": "beefb948-9762-4e67-8149-0ccd063caa4f",
+      "name": "Leela",
+      "description": "magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean",
+      "imageUrl": "http://dummyimage.com/300x200.bmp/cc0000/ffffff"
+    },
+    {
+      "id": "ed196df7-6a33-4475-99ca-3e66a85a187c",
+      "name": "Joyan",
+      "description": "curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu",
+      "imageUrl": "http://dummyimage.com/300x200.png/cc0000/ffffff"
+    },
+    {
+      "id": "96f34428-a323-4163-861f-9c66a0aa6ce0",
+      "name": "Moore",
+      "description": "odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a",
+      "imageUrl": "http://dummyimage.com/300x200.bmp/dddddd/000000"
+    },
+    {
+      "id": "db85d4cb-4881-4327-ac2a-1d7f695a94cf",
+      "name": "Kala",
+      "description": "cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat",
+      "imageUrl": "http://dummyimage.com/300x200.jpg/ff4444/ffffff"
+    },
+    {
+      "id": "603432cb-c655-4a90-85e2-de3d87a1f7d2",
+      "name": "Gustaf",
+      "description": "eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum",
+      "imageUrl": "http://dummyimage.com/300x200.jpg/dddddd/000000"
+    },
+    {
+      "id": "0a37f00d-8e74-4a9d-b66d-3043360f8544",
+      "name": "Stephine",
+      "description": "cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem",
+      "imageUrl": "http://dummyimage.com/300x200.jpg/cc0000/ffffff"
+    },
+    {
+      "id": "60d10630-b3f2-4a8a-a1c4-dc4460106ac8",
+      "name": "Salmon",
+      "description": "sed vestibulum sit amet cursus turpis integer aliquet massa lobortis convallis tortor risus",
+      "imageUrl": "http://dummyimage.com/300x200.jpg/ff4444/ffffff"
+    },
+    {
+      "id": "863569ce-15ae-404f-81ae-f339180fefb5",
+      "name": "Fred",
+      "description": "amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo",
+      "imageUrl": "http://dummyimage.com/300x200.jpg/ff4444/ffffff"
+    },
+    {
+      "id": "0fb0b33e-52c1-474b-b55b-a5317f341977",
+      "name": "Minna",
+      "description": "primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est",
+      "imageUrl": "http://dummyimage.com/300x200.bmp/cc0000/ffffff"
+    },
+    {
+      "id": "ace7ae40-ce60-40f6-89c5-3b6d976e4630",
+      "name": "Sylvia",
+      "description": "praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum",
+      "imageUrl": "http://dummyimage.com/300x200.jpg/5fa2dd/ffffff"
+    },
+    {
+      "id": "5d24d03c-3555-4b19-ab8d-7f32430c2918",
+      "name": "Meg",
+      "description": "dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum",
+      "imageUrl": "http://dummyimage.com/300x200.png/ff4444/ffffff"
+    },
+    {
+      "id": "93c80a76-18b0-419a-9613-5c1e2e291992",
+      "name": "Val",
+      "description": "morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus",
+      "imageUrl": "http://dummyimage.com/300x200.png/5fa2dd/ffffff"
+    },
+    {
+      "id": "73102c33-1082-428c-a2e6-5aea5d49353a",
+      "name": "Joella",
+      "description": "elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum",
+      "imageUrl": "http://dummyimage.com/300x200.bmp/5fa2dd/ffffff"
+    }
+  ]
+}
